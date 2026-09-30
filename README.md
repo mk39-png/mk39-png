@@ -1,7 +1,8 @@
 ## Welcome to my profile!
 
 You can read my thesis paper here!
-[Thesis Paper] (./python_algebraic_contours.pdf)
+
+[Thesis Paper](./python_algebraic_contours.pdf)
 
 <!--
 **mk39-png/mk39-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
