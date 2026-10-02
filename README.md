@@ -4,6 +4,10 @@ You can read my thesis paper here!
 
 [Thesis Paper](./python_algebraic_contours.pdf)
 
+Or here:
+
+[Thesis Paper @ Northwestern University](https://www.mccormick.northwestern.edu/computer-science/documents/nu-cs-2026-35-kevinha.pdf)
+
 <!--
 **mk39-png/mk39-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
